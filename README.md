@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 Devops Enginwwe @HCLTech<br>🎨 Gen AI Expert<br>🔧 SRE Expert<br>🌱 Currently learning and growing in the field of cloud technology<br>💞️ Passionate about collaborating on innovative projects<br>📫 Reach me at LinkedIn
+🔍 Devops Engineer @HCLTech<br>🎨 Gen AI Expert<br>🔧 SRE Expert<br>🌱 Currently learning and growing in the field of cloud technology<br>💞️ Passionate about collaborating on innovative projects<br>📫 Reach me at LinkedIn
 
 
 ## 🌐 Socials:
